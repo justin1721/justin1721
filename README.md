@@ -4,7 +4,7 @@ Hello, my name is Justin and I'm an EHR Analyst with experience in data analysis
 - Data Analysis and reporting using Google Sheets and Excel
 
 ### 🗂 Projects 
-This is where I showcase my [projects]
+This is where I showcase my [projects](https://github.com/justin1721/Justin-Portfolio/blob/main/README.md)
 
 ### 🛠 Tools 
 - Language: SQL, Python
